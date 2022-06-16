@@ -1,13 +1,13 @@
 # sinan-headless-wp
  
- This is just a test project 
- 
- I wanted to try Next.js and WordPress
+I wanted to try Next.js and WordPress
 
- I like for now...
+For now I like it..
+
+Needs some improvements for creating custom pages, posts and styling.
 
 
- # Demo
+# Demo
 
- https://sinan-headless-wp.vercel.app
+https://sinan-headless-wp.vercel.app
 
