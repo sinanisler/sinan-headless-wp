@@ -1,6 +1,6 @@
 # sinan-headless-wp
  
-I wanted to try Next.js and WordPress
+Just a Simple Headless Next.js & WordPress Test 
 
 For now I like it..
 
